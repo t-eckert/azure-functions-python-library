@@ -18,4 +18,5 @@ steps:
     pytest
   displayName: 'pytest'
 
-- script: echo "someone with PyPI permissions would need to finish this off."
+- script: echo "Someone with PyPI permissions would need to finish this off."
+  displayName: "Someone with PyPI permissions would need to finish this off."
