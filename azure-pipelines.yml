@@ -1,7 +1,8 @@
-# Test azure-functions-python-library and deploy to PyPI
+# Test azure-functions-python-library on any push to remote repository.
 
 trigger:
 - master
+- '*'
 
 pool:
   vmImage: 'ubuntu-latest'
