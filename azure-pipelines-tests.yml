@@ -1,7 +1,6 @@
 # Test azure-functions-python-library on any push to remote repository.
 
 trigger:
-- master
 - '*'
 
 pool:

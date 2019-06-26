@@ -1,3 +1,6 @@
+# Azure Functions Python Library
+
+[![Tests](https://dev.azure.com/teckert0973/res/_apis/build/status/t-eckert.azure-functions-python-library?branchName=master)](https://dev.azure.com/teckert0973/res/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
